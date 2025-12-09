@@ -1,35 +1,19 @@
 # Portfolio Website (HTML, CSS, JavaScript)
 
-A fully responsive personal portfolio website showcasing my About, Skills, Projects, and Contact sections.  
-Created using HTML, CSS Flexbox & Grid for layout, and JavaScript for smooth scrolling interactions.
-
----
+A responsive personal portfolio website showcasing skills, resume, and projects.
 
 ## Features
-- Fully responsive design  
-- Clean UI using Flexbox & Grid  
-- Smooth scrolling navigation  
-- Reusable section components  
-- Project and skills overview  
-
----
+- Fully responsive for all devices
+- Clean layout using Flexbox and Grid
+- Smooth scrolling and JavaScript interactions
+- Includes complete resume details
+- GitHub Pages ready
 
 ## Tech Stack
-- HTML  
-- CSS  
-- JavaScript  
-
----
+HTML, CSS, JavaScript
 
 ## What I Learned
-- Responsive website design  
-- CSS Flexbox & Grid  
-- UI layout structuring  
-- Front-end workflow and best practices  
-
----
-
-## How to Run
-Just open the `index.html` file in any browser.
-
-
+- Responsive design
+- CSS best practices
+- UI structuring
+- Front-end workflow
